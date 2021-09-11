@@ -1,7 +1,6 @@
 ### InsideSherpa
 # [Quantium Data Analytics Virtual Experience Program](https://www.insidesherpa.com/virtual-internships/prototype/NkaC7knWtjSbi6aYv/Data%20Analytics%20Virtual%20Experience%20Program#lp)
 - This program consists of 3 tasks.
-- All files are my personal submission for this program. Not Quantium's model work files.
 
 ---
 
